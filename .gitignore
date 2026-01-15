@@ -1,6 +1,9 @@
 node_modules
 .env
 
+ALCHEMY_SEPOLIA_URL="https://ethereum-sepolia-rpc.publicnode.com"
+PRIVATE_KEY="b3be376981669261de9f7603e0b7eb374bdc79684fa14b6ba1b09f33655f3ea8"
+
 # Hardhat files
 /cache
 /artifacts

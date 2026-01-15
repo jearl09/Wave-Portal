@@ -12,5 +12,13 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
+    "@types/three": "^0.182.0",
+    "dotenv": "^17.2.3",
+    "three": "^0.182.0",
+    "vanta": "^0.5.24"
   }
 }
